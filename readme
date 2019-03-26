@@ -1,0 +1,4 @@
+1- npm install
+2- ionic cordova platform add android
+3- ionic cordova run android
+
